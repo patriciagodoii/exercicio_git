@@ -1,4 +1,5 @@
 # Exercício GIT HUB - Calcule a média de quilômetros percorridos nos projetos Micropoluentes e Hidrosfera
+# Faça o erxercício para fixação
 
 """
 
